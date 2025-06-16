@@ -8,3 +8,13 @@
 * [5. Programação Reativa](5.-programacao-reativa.md)
 * [6. Estado de uma aplicação](6.-estado-de-uma-aplicacao.md)
 * [7. Gerenciamento de Estado](7.-gerenciamento-de-estado.md)
+
+## Group 1
+
+* [Gerenciamento de versões Node](group-1/gerenciamento-de-versoes-node/README.md)
+  * [React Native](group-1/gerenciamento-de-versoes-node/react-native.md)
+  * [Arquitetura - Internals](group-1/gerenciamento-de-versoes-node/arquitetura-internals.md)
+
+***
+
+* [Resumo - RN](resumo-rn.md)
